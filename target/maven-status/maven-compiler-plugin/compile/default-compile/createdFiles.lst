@@ -1,0 +1,12 @@
+com/project/gts/project/entities/EmploymentAgreementEntity$OtherDetails.class
+com/project/gts/project/controllers/EmploymentAgreementController.class
+com/project/gts/project/dto/EmploymentAgreementDTO$OtherDetailsDTO.class
+com/project/gts/project/DevDB.class
+com/project/gts/project/ProdDB.class
+com/project/gts/project/dto/EmploymentAgreementDTO.class
+com/project/gts/project/services/EmploymentAgreementService.class
+com/project/gts/project/configuration/AppConfig.class
+com/project/gts/project/entities/EmploymentAgreementEntity.class
+com/project/gts/project/repositories/EmploymentAgreementRepository.class
+com/project/gts/project/DB.class
+com/project/gts/project/GtsProjectApplication.class
